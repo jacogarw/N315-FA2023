@@ -1,0 +1,12 @@
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules/
+jspm_packages/
+css/styles.css.map
+# Optional npm cache directory
+.npm
+
+.vscode
